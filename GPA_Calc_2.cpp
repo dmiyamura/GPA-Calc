@@ -2,7 +2,7 @@
 using namespace std;
 
 //My name:Dylan Miyamura
-//The purpose of this program is to calculate the GPA of a
+//The purpose of this program is to calculate the GPA of a PSU STUDENT
 //term
 
 
